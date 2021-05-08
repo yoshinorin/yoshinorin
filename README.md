@@ -1,1 +1,1 @@
-#### Please check the [profile site](https://about.yoshinorin.net/).
+#### Please see the [profile site](https://about.yoshinorin.net/).
