@@ -3,3 +3,5 @@
  [Review Requests](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+review-requested%3Ayoshinorin+-user%3Ayoshinorin+is%3Aopen) /
  [Mentioned](https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+mentions%3Ayoshinorin+-user%3Ayoshinorin+is%3Aopen) /
  [Involves](https://github.com/pulls?q=archived%3Afalse+involves%3Ayoshinorin+-user%3Ayoshinorin+is%3Aopen)
+
+[![wakatime](https://wakatime.com/badge/user/e6eb83ec-d834-4844-9b5a-e6355bee42e5.svg)](https://wakatime.com/@e6eb83ec-d834-4844-9b5a-e6355bee42e5)
