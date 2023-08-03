@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/e6eb83ec-d834-4844-9b5a-e6355bee42e5.svg)](https://wakatime.com/@e6eb83ec-d834-4844-9b5a-e6355bee42e5)
 
 ![](https://wakatime.com/share/@yoshinorin/91f2ba84-2f14-4cf1-be07-58916b4dcd44.svg)
 ![](https://wakatime.com/share/@yoshinorin/39f6f2cc-a9b6-47c3-b8b0-cb26efb0c943.svg)
