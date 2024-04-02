@@ -1,4 +1,4 @@
-_This account is a hobby use. It is not used for any business purposes whatsoever, never._
+_This account is a hobby use. Not used for any business purposes whatsoever, never._
 
 ##### Issues & PRs:
 
